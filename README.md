@@ -2,7 +2,7 @@
 
 This is a Tonkeeper-maintained fork of the official [TonConnect](https://github.com/ton-connect/sdk) with additional features and improvements, while maintaining compatibility with the core TonConnect protocol.
 
-Try our [Demo Dapp](https://tonkeeper.github.io/demo-dapp-with-wallet/) to see TON Connect in action!
+Try Dapp](https://tonkeeper.github.io/demo-dapp-with-wallet/) to see TON Connect in action!
 
 ---
 
